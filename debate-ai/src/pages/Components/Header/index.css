@@ -1,0 +1,66 @@
+/* Navbar Styles */
+
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff; /* Background color set to white */
+  padding: 10px 20px;
+  color: black; /* Text color set to black */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adding a subtle box-shadow for depth */
+}
+
+.logo h2 {
+  font-size: 20px;
+  margin: 0;
+  padding: 10px;
+}
+
+.logo span {
+  color: #fe9e0d; /* Highlight color */
+}
+
+.menu-link ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-link li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.a a {
+  background-color: #fe9e0d;
+  border: 2px solid #fe9e0d; /* Add a solid border for better visibility */
+  border-radius: 8px; /* Adjusted border-radius for a smoother appearance */
+  color: white;
+  padding: 10px 20px; /* Adjusted padding for better spacing */
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.a a:hover {
+  background-color: #fe9e0d; /* Darker color on hover for visual feedback */
+}
+
+
+.menu-link a {
+  text-decoration: none;
+  color: black; /* Link text color */
+  transition: color 0.3s ease;
+}
+
+.menu-link a:hover {
+  color: #fe9e0d; /* Hover color on links */
+}
+
+/* Hero Section Styles */
+.hero-section {
+  padding: 50px;
+  background-color: #f4f4f4; /* Background color for the hero section */
+  color: #333; /* Text color */
+}
