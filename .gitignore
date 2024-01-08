@@ -1,0 +1,8 @@
+node_modules
+debate-ai/node_modules/.cache/default-development/8.pack
+debate-ai/node_modules/.cache/default-development/7.pack
+debate-ai/node_modules/.cache/default-development/9.pack
+debate-ai/node_modules/.cache/default-development/8.pack
+debate-ai/node_modules/.cache/default-development/7.pack
+debate-ai/node_modules/.cache/default-development/6.pack
+*.pack

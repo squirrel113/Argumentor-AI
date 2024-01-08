@@ -1,0 +1,4 @@
+OpenAI: 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
+serp: ebfaafb043613442e0010e3795c9ead4cab196e5448a6e3728d64edbbccdf731
+googlesearch: AIzaSyAcSZyBMySIi2fmNVvHjP9aXdXIGBegXHI
+search_engineid: 76416ceff6aaf42c6
